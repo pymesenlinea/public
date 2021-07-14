@@ -4,8 +4,6 @@
 -->
 ![Pymes en línea](https://static-site-pymes-pro.s3.amazonaws.com/wp-content/uploads/2021/03/19143720/slice4%402x.png)
 
-[**Ver Web**](https://pymesenlinea.cl)
-
 
 # Pymes en Línea
 
